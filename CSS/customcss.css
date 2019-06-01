@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body, html {
+    height: 100%;
+}
+#nightFestivalGear, .bg {
+    /* The image used */
+    background-image: url(BackgroundPic.jpg);
+    /* Full height */
+    height: 100%;s
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  #dayFestivalGear, .bg {
+      /* The image used */
+      background-image: url(DayFestImg.jpg);
+      /* Full height */
+      height: 100%;s
+      /* Center and scale the image nicely */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
